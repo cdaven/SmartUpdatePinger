@@ -1,6 +1,6 @@
 # Smart Update Pinger (inactive since 2006)
 
-Smart Update Pinger replaces the built-in update ping functionality. Instead of always pinging when saving a post, the plugin only pings when the post has not previously been published. Edits of posts are "silent", in contrast with the default behaviour. Also, you can see a log for the latest pings, together with error messages (in the options page).
+Smart Update Pinger is a WordPress plugin that replaces the built-in update ping functionality. Instead of always pinging when saving a post, the plugin only pings when the post has not previously been published. Edits of posts are "silent", in contrast with the default behaviour. Also, you can see a log for the latest pings, together with error messages (in the options page).
 
 Motivation: "update pings" to blog services includes the URL of your blog, not of a specific post. You should only ping when you have added a new post to your blog since there is no way of telling which post was edited and caused the blog tool (WordPress) to ping. If you edit several already published posts, everyone will cause a new ping frenzy, unless you have Smart Update Pinger installed. You don't want to be banned for pingspamming, do you?
 
